@@ -92,7 +92,7 @@ int main()
 
 ## OUTPUT:
 
-![image](https://github.com/AasrithSairam/Linux-IPC-Message-Queues/assets/139331438/36fe28e2-653c-4059-a58e-4f6611deef73)
+![image](https://github.com/user-attachments/assets/6518df41-0542-4b8f-b2ca-19f4aa0e2154)
 
 # RESULT:
 
